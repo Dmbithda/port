@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+#port1{
+	background-color: goldenrod;
+	padding:25px;
+	border:25px solid blue;
+	border-radius:25px;
+	font-size:35px;
+	
+}
+#port3{
+	background-color: goldenrod;
+	padding:25px;
+	border:25px solid green;
+	border-radius:25px;
+	font-size:25px;
+}
+#port4{
+	background-color: goldenrod;
+	padding:25px;
+	border:25px solid green;
+	border-radius:25px;
+	font-size:25px;
+}#port5{
+	background-color: goldenrod;
+	padding:25px;
+	border:25px solid green;
+	border-radius:25px;
+	font-size:25px;
+}
+#port6{
+	background-color: cadetblue;
+	padding:25px;
+	border:25px solid blue;
+	border-radius:25px;
+	font-size:25px;
+}
+
+p{
+	font-size:35px;
+}
+body{
+	background-image:
+		url("images/b3.jpg");
+	border-radius: 25px;
+}
+#port2 {background-color:aquamarine;
+	    
+	padding:25px;
+	border:25px solid blue;
+	margin:25px;
+	font-size:35px;
+	
+}
+img{
+	float:right;
+	margin-right: 200px; 
+	border-radius:50%;
+	margin-top:45px;
+	
+}
+d{
+}
+#im1{
+	float:left;
+	border-radius:50%;
+	border:15px solid blue;
+	margin-top: -49px;
+	margin-right: 52px;
+}
+#im2{
+	float:right;
+	border-radius:50%;
+	border:15px solid blue;
+	margin-top: -49px;
+	margin-right:900px;
+	
+}
+#im3{
+	border-radius:50%;
+	border:15px solid blue;
+	margin-top: -49px;
+	float:left;
+	margin-right:40px;
+}
+
+#port8{
+	background-color: goldenrod;
+	padding:25px;
+	border:25px solid blue;
+	border-radius:25px;
+	font-size:35px;
+}
+
